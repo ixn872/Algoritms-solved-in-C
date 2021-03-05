@@ -1,2 +1,2 @@
-# Algoritms-solved-in-C-Java-Python
-Algoritms solved in C++,Java,Python
+# Algoritms-solved-in-C++
+Algoritms solved in C++

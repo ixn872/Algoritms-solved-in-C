@@ -3,6 +3,9 @@
 
 //Every element is pushed and popped from the deque only once in a single traversal.
 
+//Memory Complexity #
+//The memory complexity of this solution is linear, O(w), where w is the window size in this case.
+
 
 vector<int> find_max_sliding_window(vector<int>& v, int window_size) {
   vector<int> result;
